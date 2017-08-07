@@ -1,0 +1,55 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+    </style>
+    <style name="themeone" parent="Theme.AppCompat.Light">
+        <item name="colorPrimary">@color/colorOne</item>
+        <item name="colorPrimaryDark">@color/colorOne</item>
+        <item name="titleTextColor">@color/colorTextOne</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+    </style>
+    <style name="themetwo" parent="Theme.AppCompat.Light">
+        <item name="colorPrimary">@color/colorTwo</item>
+        <item name="colorPrimaryDark">@color/colorTwo</item>
+        <item name="titleTextColor">@color/colorTextTwo</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+    </style>
+    <style name="themeThree" parent="Theme.AppCompat.Light">
+        <item name="titleTextColor">@color/colorTextThree</item>
+        <item name="colorPrimary">@color/colorThree</item>
+        <item name="colorPrimaryDark">@color/colorThree</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+    </style>
+    <style name="themeFour" parent="Theme.AppCompat.Light">
+        <item name="titleTextColor">@color/colorTextFour</item>
+        <item name="colorPrimary">@color/colorFour</item>
+        <item name="colorPrimaryDark">@color/colorFour</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+    </style>
+    <style name="themeFive" parent="Theme.AppCompat.Light">
+        <item name="colorPrimary">@color/colorFive</item>
+        <item name="titleTextColor">@color/colorTextFive</item>
+        <item name="colorPrimaryDark">@color/colorFive</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+    </style>
+    <style name="themeSix" parent="Theme.AppCompat.Light">
+        <item name="colorPrimary">@color/colorSix</item>
+        <item name="titleTextColor">@color/colorTextSix</item>
+        <item name="colorPrimaryDark">@color/colorSix</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+    </style>
+
+
+</resources>
